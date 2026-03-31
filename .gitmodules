@@ -1,0 +1,9 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/nimsimethusala/api-gateway-bookstore.git
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/nimsimethusala/config-server-bookstore.git
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/nimsimethusala/eureka-server-bookstore.git
